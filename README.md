@@ -37,3 +37,6 @@ if (! _adapter instanceof TableInfoAdapter){ //判斷_adpater是否為TableInfoA
 
 ### P.S.
 ###### 此為一簡單範例，有缺少某些資源檔為正常，請直接忽略 :)
+=======
+# exampleForMono
+
